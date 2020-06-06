@@ -1,0 +1,2 @@
+MysqlDB = "michael:cccbbb@tcp(192.168.11.31:30001)/my_spider?parseTime=true"
+Redis = "192.168.11.31:30002"
